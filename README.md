@@ -83,6 +83,8 @@ Benefits of Use Case Diagrams:
 
 *Example*:
 
+![Use Case Diagram Example](alx-booking-uc.png)
+
 
 ### Acceptance Criteria
 
